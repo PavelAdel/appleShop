@@ -1,0 +1,172 @@
+{
+  "products": [
+    {
+      "image": "1.jpg",
+      "name": "IPHONE SE 64GB BLACK",
+      "price": 459,
+      "article": "i1",
+      "available": true
+    },
+    {
+      "image": "2.jpg",
+      "name": "IPHONE SE 64GB WHITE",
+      "price": 459,
+      "article": "i2",
+      "available": true
+    },
+    {
+      "image": "3.jpg",
+      "name": "IPHONE SE 64GB RED",
+      "price": 459,
+      "article": "i3",
+      "available": true
+    },
+    {
+      "image": "1.jpg",
+      "name": "IPHONE SE 128GB BLACK",
+      "price": 499,
+      "article": "i4",
+      "available": true
+    },
+    {
+      "image": "2.jpg",
+      "name": "IPHONE SE 128GB WHITE",
+      "price": 499,
+      "article": "i5",
+      "available": true
+    },
+    {
+      "image": "3.jpg",
+      "name": "IPHONE SE 128GB RED",
+      "price": 519,
+      "article": "i6",
+      "available": true
+    },
+    {
+      "image": "2.jpg",
+      "name": "IPHONE SE 128GB WHITE",
+      "price": 499,
+      "article": "i7",
+      "available": true
+    },
+    {
+      "image": "1.jpg",
+      "name": "IPHONE SE 256GB RED",
+      "price": 499,
+      "article": "i8",
+      "available": true
+    },
+    {
+      "image": "3.jpg",
+      "name": "IPHONE SE 256GB BLACK",
+      "price": 629,
+      "article": "i9",
+      "available": true
+    },
+    {
+      "image": "4.jpg",
+      "name": "IPHONE 12 MINI 64GB RED",
+      "price": 739,
+      "article": "i10",
+      "available": true
+    },
+    {
+      "image": "5.jpg",
+      "name": "IPAD PRO 11” WI-FI 128GB SPACE GRAY",
+      "price": 849,
+      "article": "i11",
+      "available": true
+    },
+    {
+      "image": "5.jpg",
+      "name": "IPAD PRO 11” WI-FI 256GB SPACE GRAY ",
+      "price": 949,
+      "article": "i12",
+      "available": true
+    },
+    {
+      "image": "6.jpg",
+      "name": "IPAD PRO 11” WI-FI 256GB SILVER",
+      "price": 949,
+      "article": "i13",
+      "available": true
+    },
+    {
+      "image": "7.jpg",
+      "name": "MACBOOK PRO 13″ TB SILVER",
+      "price": 1.849,
+      "article": "i14",
+      "available": true
+    },
+    {
+      "image": "8.jpg",
+      "name": "MACBOOK PRO 13″ TB SPACE GRAY",
+      "price": 1.849,
+      "article": "i15",
+      "available": true
+    },
+    {
+      "image": "9.jpg",
+      "name": "MACBOOK PRO 16” TB SPACE GRAY",
+      "price": 2.329,
+      "article": "i16",
+      "available": true
+    },
+    {
+      "image": "10.jpg",
+      "name": "MACBOOK PRO 16” TB SILVER",
+      "price": 2.329,
+      "article": "i17",
+      "available": true
+    },
+    {
+      "image": "8.jpg",
+      "name": "MACBOOK PRO 16” TB SPACE GRAY",
+      "price": 2.799,
+      "article": "i18",
+      "available": true
+    },
+    {
+      "image": "9.jpg",
+      "name": "MACBOOK PRO 16” TB SPACE",
+      "price": 2.799,
+      "article": "i19",
+      "available": true
+    },
+    {
+      "image": "11.jpg",
+      "name": "MACBOOK AIR 13 GOLD",
+      "price": 979,
+      "article": "i20",
+      "available": true
+    },
+    {
+      "image": "12.jpg",
+      "name": "MACBOOK AIR 13 SILVER",
+      "price": 979,
+      "article": "i21",
+      "available": true
+    },
+    {
+      "image": "13.jpg",
+      "name": "MACBOOK AIR 13 M1 SPACE GRAY",
+      "price": 1.139,
+      "article": "i22",
+      "available": true
+    },
+    {
+      "image": "13.jpg",
+      "name": "MACBOOK AIR 13 M1 GOLD",
+      "price": 1.139,
+      "article": "i23",
+      "available": true
+    },
+    {
+      "image": "13.jpg",
+      "name": "MACBOOK AIR 13 M1 SILVER",
+      "price": 1.139,
+      "article": "i24",
+      "available": true
+    }
+  ]
+}
